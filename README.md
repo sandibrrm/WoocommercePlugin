@@ -1,2 +1,1 @@
-# WoocommercePlugin
-Professional WoocommercePlugin solution with WoocommercePlugin-optimized intelligent-automation and enterprise scalable-architecture capabilities
+.
